@@ -1,4 +1,4 @@
-## Downloads
+## Download Links
 
 ### Twitch
 
