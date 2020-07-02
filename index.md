@@ -3,7 +3,7 @@
 ### Twitch
 
  - [Windows](https://github.com/zacx-z/signal-decay-streamplay/releases/download/1.0/sd-twitch-win.exe)
- - [MacOS](https://github.com/zacx-z/signal-decay-streamplay/releases/download/1.0/sd-twitch-macos)
+ - [MacOS](https://github.com/zacx-z/signal-decay-streamplay/releases/download/1.0/SD-Twitch-MacOS.zip)
  - [Linux](https://github.com/zacx-z/signal-decay-streamplay/releases/download/1.0/sd-twitch-linux)
 
 ### Bilibili
