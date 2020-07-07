@@ -28,9 +28,9 @@ Add `roomid.txt` file in the same directory of the executable with the room id (
 
 ## How to Enable Stream-Play in Signal Decay
 
-On _Steam_, right click _Signal Decay_, select _Properties..._, press _Set Launch Options_ button, and input `--stream-play`. (Currently only works on beta branch)
+On _Steam_, right click _Signal Decay_, select _Properties..._, press _Set Launch Options_ button, and input `--stream-play`.
 
-在 _Steam_ 上，右键《拯救世界特别小队》，选择“属性...”，按“设置启动选项”按钮，输入 `--stream-play`。（目前仅在beta分支上有效）
+在 _Steam_ 上，右键《拯救世界特别小队》，选择“属性...”，按“设置启动选项”按钮，输入 `--stream-play`。
 
 ## How Stream-Play works
 
